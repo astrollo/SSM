@@ -13,7 +13,7 @@ IEEE Transactions on Circuits and Systems I: Regular Papers, 2022
 
 # License and Citation
 
-The VHDL source code is released under the BSD 2-Clause license.(Refer to LICENSE file).
+The VHDL source code is released under the MIT license. (Refer to LICENSE file).
 
 Please cite our paper in your publications, if the code in this repository helps your research:
 
